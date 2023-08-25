@@ -16,7 +16,7 @@ print('z = x // y =', z)
 ~~~
 
 **Problem - 2**
-Creating solver for a $$ax^2 + bx + c =0$$ equation
+Creating solver for  $ax^2 + bx + c =0$
 
 ~~~python
 import math
