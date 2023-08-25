@@ -3,7 +3,7 @@ First problems
 **Problem - 1**
 operators:
 Floor division operators
-~~~/python
+~~~python
 x = 45
 y = 14
 z = x // y
